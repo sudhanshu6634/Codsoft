@@ -1,1 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sudhanshu Ranjan | Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Sudhanshu Ranjan</h1>
+    <p>Web Developer</p>
+  </header>
 
+  <section id="about">
+    <h2>Hello, I'm Sudhanshu Ranjan. I am a passionate web developer with experience in HTML, CSS, and JavaScript.</h2>
+    <img src="WhatsApp Image 2024-03-24 at 16.18.25_4c60d7e5.jpg" >
+    
+  </section>
+
+  <section id="skills">
+    
+    <ul>
+		<li>HTML</li>
+      <li>CSS</li>
+      <li>Javascript</li>
+      <li>Python</li>
+    </ul>
+  </section>
+
+  <section id="projects">
+    <h2>Projects</h2>
+    <article>
+      <h2>Univerity Management System</h2>
+      <p>Univerity Management System is a desktop-based application that allows a user to electronically manage a University Information System. A user can carry out the following tasks: Register a Student Register a Teacher See Student / Teacher attendance View examination details Enter examination marks Update Student details Update Teacher details Register Student tuition fee payment</p>
+      <img src="management.png" >
+    </article>
+    <article>
+      <h2>Netflix Clone</h2>
+      
+      <img src="netflix.png" >
+    </article>
+  </section>
+
+  <section id="resume">
+    <h2>Resume</h2>
+    <a href="Ranjan Resume 1.pdf">Download Resume</a>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <ul>
+      <li>Email: sudhanshuranjangt01@gmail.com</li>
+      <li>Phone: 8084806091</li>
+    </ul>
+  </section>
+
+  <footer>
+    <p >&copy; 2024 Sudhanshu Ranjan</p>
+  </footer>
+</body>
+</html>
